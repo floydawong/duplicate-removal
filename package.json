@@ -1,0 +1,21 @@
+{
+  "name": "duplicate-removal",
+  "main": "./lib/duplicate-removal",
+  "version": "0.1.0",
+  "description": "remove duplicate lines | 删除重复行",
+  "keywords": [
+    "line",
+    "remove",
+    "duplicate"
+  ],
+  "activationCommands": {
+    "atom-workspace": "duplicate-removal:toggle"
+  },
+  "repository": "https://github.com/atom/duplicate-removal",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
