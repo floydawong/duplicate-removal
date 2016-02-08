@@ -22,5 +22,5 @@
   "dependencies": {
   },
   "readme": "# duplicate-removal package\n> remove duplicate lines  \n> 删除重复行\n![duplicate-removal.gif](./res/duplicate-removal.gif)\n## Install\n```\napm install duplicate-removal\n## Usage\n- shortcut  \n'ctrl-alt-r': 'duplicate-removal:toggle'\n- cmd-shift-p  \n![duplicate-removal.png](./res/duplicate-removal.png)\n",
-  "readmeFilename": "README.md",
+  "readmeFilename": "README.md"
 }
