@@ -1,7 +1,7 @@
 {
   "name": "duplicate-removal",
   "main": "./lib/duplicate-removal",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "remove duplicate lines | 删除重复行",
   "keywords": [
     "line",
@@ -19,8 +19,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "readme": "# duplicate-removal package\n> remove duplicate lines  \n> 删除重复行\n![duplicate-removal.gif](./res/duplicate-removal.gif)\n## Install\n```\napm install duplicate-removal\n## Usage\n- shortcut  \n'ctrl-alt-r': 'duplicate-removal:toggle'\n- cmd-shift-p  \n![duplicate-removal.png](./res/duplicate-removal.png)\n",
   "readmeFilename": "README.md"
 }
