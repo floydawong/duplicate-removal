@@ -1,7 +1,7 @@
 {
   "name": "duplicate-removal",
   "main": "./lib/duplicate-removal",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "remove duplicate lines | 删除重复行",
   "keywords": [
     "line",
