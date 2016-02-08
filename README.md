@@ -10,9 +10,9 @@ apm install duplicate-removal
 ```
 
 ## Usage
-- shortcut
+- shortcut  
 ```
 'ctrl-alt-r': 'duplicate-removal:toggle'
 ```
-- cmd-shift-p
+- cmd-shift-p  
 ![duplicate-removal.png](./res/duplicate-removal.png)

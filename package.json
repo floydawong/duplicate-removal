@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "duplicate-removal:toggle"
   },
-  "repository": "https://github.com/atom/duplicate-removal",
+  "repository": "https://github.com/FloydaGithub/duplicate-removal",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
